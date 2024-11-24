@@ -1,0 +1,6 @@
+Mode: Player vs Computer
+Player 1: Duck
+Computer
+Result: Tie
+Difficulty: 3
+
